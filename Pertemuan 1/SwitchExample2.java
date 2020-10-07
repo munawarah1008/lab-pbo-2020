@@ -1,0 +1,26 @@
+/**  
+ * Program berikut untuk mencoba jika break tertinggal pada pernyataan
+ * case
+*/  
+public class SwitchExample2 {  
+
+	public static void main(String[] args) {  
+
+  		int number=20; 
+  		 
+  		switch(number){  
+  			case 10: System.out.println("10");  
+  			case 20: System.out.println("20");  
+  			case 30: System.out.println("30");  
+  			default:System.out.println("Not in 10, 20 or 30");   }  
+ }  
+} 
+
+/*
+	program di atas sama seperti program switchexample
+	hanya saja tanpa ada break. karena tidak ada break,
+	semua program dijalankan.
+	maka nanti akan dicetak semua pilihan yang dipilih ataupun 
+	tidak dipilih
+
+*/
