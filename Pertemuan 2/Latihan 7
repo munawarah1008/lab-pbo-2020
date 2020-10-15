@@ -1,0 +1,18 @@
+1. Apakah perbedaan class String, StringBuffer dan StringBuilder? 
+   class String akan mempresentasikan suatu teks dimana isi di dalamnya
+   tidak bisa diubah atau bersifat immutuable, StringBuffer mirip dengan 
+   String hanya saja dapat dimodifikasi dengan menggunakan beberapa method
+   yang dimilikinya serta bersifat mutuable, dan StringBuilder mirip dengan
+   class String dan StringBuffer hanya sajatidak mendukung sinkronisasi.
+
+2. Apakah yang dimaksud dengan sifat mutable dan immutable? Beri contoh!
+   immutuable maksudnya adalah string yang diisikan ke dalamnya tidak dapat
+   diubah atau dimodifikasi misalnya dalam sebuah string "abc" maka nilai
+   string tetap itu dan tidak bisa diubah. sedangkan mutuable adalah string
+   yang diisikan nya dapat diubah dan dimodifikasi misalnya string "abc" nantinya 
+   dapat ditambahkan huruf lain di depan belakang atau ditengahnya bahkan bisa 
+   ditimpa dengan string yang lain.
+
+3. Jelaskan operasi utama append dan insert yang dimiliki oleh StringBuffer! 
+   Method append selalu menambahkan teks diakhir string, sedang method insert 
+   menembahkan teks di posisi tertentu.
