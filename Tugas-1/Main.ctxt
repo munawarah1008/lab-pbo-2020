@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Class\ Main\ adalah\ class\ utama\ yang\ akan\ mensimulasikan\ program\ bus\ trans\ koetaradja\r\n\ dimana\ akan\ diciptakan\ sebuah\ objek\ bus\r\n\r\n\ @author\ Munawarah\r\n\ @version\ 03-12-2020\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Method\ static\ void\ main\ akan\ mensimulasikan\ program\r\n\ setiap\ program\ dijalankan\ akan\ disediakan\ menu\ yang\ akan\ dipilih\ user\r\n
+numComments=2
