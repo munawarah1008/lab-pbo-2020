@@ -24,5 +24,6 @@ public class TesSiswa1
 
     objek yang diciptakan pada baris pertama dan kedua berhasil dicetak namun
     pada baris selanjutnya dicetak alamat dari objeknya karena objek tidak bisa 
-    diprint.
+    diprint karena pada bagian ini tidak diterapkan konsep encapculasi dimana sebaiknya
+    dipanggil method acessornya agar objek yang dimaksud dapat diprint ke layar
 */

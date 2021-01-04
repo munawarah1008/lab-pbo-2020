@@ -36,5 +36,5 @@ merah hijau kuning
 3 4 5
 5 6 7
 
-Dimana akan dicetak semua nilai yang terdapat di dalam array
+Dimana dicetak semua nilai yang terdapat di dalam array dengan memanggil index dari array tersebut
 */

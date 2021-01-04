@@ -39,7 +39,7 @@ public class Siswa1
 /**
     Pada program di atas diperlihatkan beberapa macam jenis method ada contructor
     overloading, acessor dan mutator semua hak aksesnya adalah public dan sudah
-    diterapkan keyword this
+    diterapkan keyword this maksudnya objek yang dimaksud yang sedang aktif saat ini
 */
 
  

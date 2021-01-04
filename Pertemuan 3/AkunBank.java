@@ -32,6 +32,7 @@ public class AkunBank {
 		}
 	}
 
+	// method toString
 	public String toString() {
 		return "Jumlah Saldo : "+getSaldo();
 	}

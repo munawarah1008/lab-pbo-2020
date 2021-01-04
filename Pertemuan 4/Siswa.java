@@ -18,6 +18,7 @@ public class Siswa {
 } 
 
 /**
-	Pada kode program di atas mengenai materi enkapsulasi dimana pada setiap 
-	method diberikan hak akses public
+	Pada kode program di atas mengenai materi enkapsulasi dimana atributnya berakses private dan
+	hanya dapat diakses dengan memanggil method mutator atau accessornya, yang dimana artinya
+	atribut tersebut terlindungi dan tidak dapat diakses secara langsung oleh class yang lain
 */
